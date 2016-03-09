@@ -1,0 +1,28 @@
+name: 'Ah, you use the Grid eh?'
+favicon: null
+layout_spectrum: 0.21332248533144593
+typography_spectrum: 0.11469168029725552
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6995580501388758
+  lightness: 0.990322136785835
+  saturation: 0.1418979149311781
+  rhythmicContrast: 0.05913098156452179
+purpose: []
